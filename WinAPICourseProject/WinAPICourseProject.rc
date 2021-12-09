@@ -1,0 +1,260 @@
+// Microsoft Visual C++ generated resource script.
+//
+#include "resource.h"
+
+#define APSTUDIO_READONLY_SYMBOLS
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 2 resource.
+//
+#include "winres.h"
+
+/////////////////////////////////////////////////////////////////////////////
+#undef APSTUDIO_READONLY_SYMBOLS
+
+/////////////////////////////////////////////////////////////////////////////
+// Русский (Россия) resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_RUS)
+LANGUAGE LANG_RUSSIAN, SUBLANG_DEFAULT
+#pragma code_page(1251)
+
+#ifdef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// TEXTINCLUDE
+//
+
+1 TEXTINCLUDE 
+BEGIN
+    "resource.h\0"
+END
+
+2 TEXTINCLUDE 
+BEGIN
+    "#include ""winres.h""\r\n"
+    "\0"
+END
+
+3 TEXTINCLUDE 
+BEGIN
+    "\r\n"
+    "\0"
+END
+
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Bitmap
+//
+
+SRC_BITMAP              BITMAP                  "..\\res\\srcBMP.bmp"
+
+SRC_MONO_BITMAP         BITMAP                  "..\\res\\srcMonoBMP.bmp"
+
+SELECTED_SRC_BITMAP     BITMAP                  "..\\res\\SRC_SELECTED.bmp"
+
+SELECTED_SNK_BITMAP     BITMAP                  "..\\res\\SNK_SELECTED.bmp"
+
+SNK_BITMAP              BITMAP                  "..\\res\\snkBMP.bmp"
+
+SNK_MONO_BITMAP         BITMAP                  "..\\res\\snkMonoBMP.bmp"
+
+BMP1                    BITMAP                  "..\\res\\1BMP.bmp"
+
+BMP2                    BITMAP                  "..\\res\\2BMP.bmp"
+
+BMP3                    BITMAP                  "..\\res\\3BMP.bmp"
+
+BMP4                    BITMAP                  "..\\res\\4BMP.bmp"
+
+BMP5                    BITMAP                  "..\\res\\5BMP.bmp"
+
+BMP6                    BITMAP                  "..\\res\\6BMP.bmp"
+
+BMP7                    BITMAP                  "..\\res\\7BMP.bmp"
+
+BMP8                    BITMAP                  "..\\res\\8BMP.bmp"
+
+BMP9                    BITMAP                  "..\\res\\9BMP.bmp"
+
+BMP10                   BITMAP                  "..\\res\\10BMP.bmp"
+
+BMP11                   BITMAP                  "..\\res\\11BMP.bmp"
+
+BMP12                   BITMAP                  "..\\res\\12BMP.bmp"
+
+BMP13                   BITMAP                  "..\\res\\13BMP.bmp"
+
+BMP14                   BITMAP                  "..\\res\\14BMP.bmp"
+
+BMP15                   BITMAP                  "..\\res\\15BMP.bmp"
+
+BMP16                   BITMAP                  "..\\res\\16BMP.bmp"
+
+BMP17                   BITMAP                  "..\\res\\17BMP.bmp"
+
+BMP18                   BITMAP                  "..\\res\\18BMP.bmp"
+
+BMP1_S                  BITMAP                  "..\\res\\1BMP_Selected.bmp"
+
+BMP2_S                  BITMAP                  "..\\res\\2BMP_Selected.bmp"
+
+BMP3_S                  BITMAP                  "..\\res\\3BMP_Selected.bmp"
+
+BMP4_S                  BITMAP                  "..\\res\\4BMP_Selected.bmp"
+
+BMP5_S                  BITMAP                  "..\\res\\5BMP_Selected.bmp"
+
+BMP6_S                  BITMAP                  "..\\res\\6BMP_Selected.bmp"
+
+BMP7_S                  BITMAP                  "..\\res\\7BMP_Selected.bmp"
+
+BMP8_S                  BITMAP                  "..\\res\\8BMP_Selected.bmp"
+
+BMP9_S                  BITMAP                  "..\\res\\9BMP_Selected.bmp"
+
+BMP10_S                 BITMAP                  "..\\res\\10BMP_Selected.bmp"
+
+BMP11_S                 BITMAP                  "..\\res\\11BMP_Selected.bmp"
+
+BMP12_S                 BITMAP                  "..\\res\\12BMP_Selected.bmp"
+
+BMP13_S                 BITMAP                  "..\\res\\13BMP_Selected.bmp"
+
+BMP14_S                 BITMAP                  "..\\res\\14BMP_Selected.bmp"
+
+BMP15_S                 BITMAP                  "..\\res\\15BMP_Selected.bmp"
+
+BMP16_S                 BITMAP                  "..\\res\\16BMP_Selected.bmp"
+
+BMP17_S                 BITMAP                  "..\\res\\17BMP_Selected.bmp"
+
+BMP18_S                 BITMAP                  "..\\res\\18BMP_Selected.bmp"
+
+BMP1_M                  BITMAP                  "..\\res\\1BMP_Mono.bmp"
+
+BMP2_M                  BITMAP                  "..\\res\\2BMP_Mono.bmp"
+
+BMP3_M                  BITMAP                  "..\\res\\3BMP_Mono.bmp"
+
+BMP4_M                  BITMAP                  "..\\res\\4BMP_Mono.bmp"
+
+BMP5_M                  BITMAP                  "..\\res\\5BMP_Mono.bmp"
+
+BMP6_M                  BITMAP                  "..\\res\\6BMP_Mono.bmp"
+
+BMP7_M                  BITMAP                  "..\\res\\7BMP_Mono.bmp"
+
+BMP8_M                  BITMAP                  "..\\res\\8BMP_Mono.bmp"
+
+BMP9_M                  BITMAP                  "..\\res\\9BMP_Mono.bmp"
+
+BMP10_M                 BITMAP                  "..\\res\\10BMP_Mono.bmp"
+
+BMP11_M                 BITMAP                  "..\\res\\11BMP_Mono.bmp"
+
+BMP12_M                 BITMAP                  "..\\res\\12BMP_Mono.bmp"
+
+BMP13_M                 BITMAP                  "..\\res\\13BMP_Mono.bmp"
+
+BMP14_M                 BITMAP                  "..\\res\\14BMP_Mono.bmp"
+
+BMP15_M                 BITMAP                  "..\\res\\15BMP_Mono.bmp"
+
+BMP16_M                 BITMAP                  "..\\res\\16BMP_Mono.bmp"
+
+BMP17_M                 BITMAP                  "..\\res\\17BMP_Mono.bmp"
+
+BMP18_M                 BITMAP                  "..\\res\\18BMP_Mono.bmp"
+
+IDB_ICON                ICON                  "..\\res\\icon.ico"
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Dialog
+//
+
+IDD_REQUESTCAPACITY DIALOGEX 0, 0, 168, 61
+STYLE DS_SETFONT | DS_MODALFRAME | DS_FIXEDSYS | DS_CENTER | WS_POPUP | WS_CAPTION
+CAPTION "Ввод пропускной способности"
+FONT 8, "MS Shell Dlg", 400, 0, 0x1
+BEGIN
+    DEFPUSHBUTTON   "ОК",IDOK_CAP,46,36,50,14
+    PUSHBUTTON      "Отмена",IDCANCEL_CAP,100,36,50,14
+    EDITTEXT        IDC_EDIT_CAP,14,20,135,14,ES_RIGHT | ES_AUTOHSCROLL | ES_NUMBER
+    CTEXT           "Введите пропускную способность дуги:",IDC_TEXT_REQUEST,8,9,145,8
+END
+
+IDD_RESDIALOGWIN DIALOGEX 0, 0, 397, 363
+STYLE DS_SETFONT | DS_MODALFRAME | DS_FIXEDSYS | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "Максимальный поток сети"
+FONT 8, "MS Shell Dlg", 400, 0, 0x1
+BEGIN
+    DEFPUSHBUTTON   "ОК",IDOK,180,342,50,14
+    LTEXT           "Максимальный поток в сети: ",IDC_STATIC,12,325,101,8
+    RTEXT           "...",IDC_STATIC_MAX_FLOW,283,325,104,8
+    GROUPBOX        "",IDC_EDIT_CAP,7,7,383,316
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// DESIGNINFO
+//
+
+#ifdef APSTUDIO_INVOKED
+GUIDELINES DESIGNINFO
+BEGIN
+    IDD_REQUESTCAPACITY, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 161
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 54
+    END
+
+    IDD_RESDIALOGWIN, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 390
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 356
+    END
+END
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// AFX_DIALOG_LAYOUT
+//
+
+IDD_REQUESTCAPACITY AFX_DIALOG_LAYOUT
+BEGIN
+    0
+END
+
+IDD_RESDIALOGWIN AFX_DIALOG_LAYOUT
+BEGIN
+    0
+END
+
+#endif    // Русский (Россия) resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+
+#ifndef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 3 resource.
+//
+
+
+/////////////////////////////////////////////////////////////////////////////
+#endif    // not APSTUDIO_INVOKED
+
